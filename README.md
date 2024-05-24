@@ -2,7 +2,7 @@
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 200 to 900
 
-a {
+.a {
   font-family: "Noto Serif JP", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
